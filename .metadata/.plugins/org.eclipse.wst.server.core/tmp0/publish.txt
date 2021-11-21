@@ -1,3 +1,4 @@
 #Tomcat publish data
-#Sat Nov 20 15:24:38 CST 2021
+#Sun Nov 21 16:33:07 CST 2021
 org.eclipse.jst.jee.server\:web-demo=D\:\\Tomcat\\apache-tomcat-9.0.54\\webapps\\web-demo
+org.eclipse.jst.jee.server\:web-demo1=D\:\\Tomcat\\apache-tomcat-9.0.54\\webapps\\web-demo1
