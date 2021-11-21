@@ -1,7 +1,4 @@
 
-\
-java:S2440"%Remove this instantiation of "Demo1".(ูถุฌ๙ÿÿÿÿ8ําห็ำ/HKRMAJORZ
-CODE_SMELL
 o	java:S106
-"9Replace this use of System.out or System.err by a logger.(พ๙๔๙ÿÿÿÿ8ําห็ำ/HLRMAJORZ
+"9Replace this use of System.out or System.err by a logger.(พ๙๔๙ÿÿÿÿ8ําห็ำ/HdRMAJORZ
 CODE_SMELL

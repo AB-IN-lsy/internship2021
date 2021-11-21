@@ -1,8 +1,8 @@
 
-jWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(×å¯äúÿÿÿÿ8òûßáÓ/H!RMAJORZ
+XWeb:BoldAndItalicTagsCheckK"Replace this <i> tag by <em>.(ı ‹×8òûßáÓ/H\RMINORZBUG
+XWeb:BoldAndItalicTagsCheck]"Replace this <i> tag by <em>.(–ü®Â8òûßáÓ/H]RMINORZBUG
+jWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(×å¯äúÿÿÿÿ8òûßáÓ/H^RMAJORZ
 CODE_SMELL
-XWeb:BoldAndItalicTagsCheckK"Replace this <i> tag by <em>.(ı ‹×8òûßáÓ/H"RMINORZBUG
-XWeb:BoldAndItalicTagsCheckQ"Replace this <i> tag by <em>.(ÿ¦º8òûßáÓ/H#RMINORZBUG
-XWeb:BoldAndItalicTagsCheckW"Replace this <i> tag by <em>.(û‘”ï8òûßáÓ/H$RMINORZBUG
-XWeb:BoldAndItalicTagsCheck]"Replace this <i> tag by <em>.(–ü®Â8òûßáÓ/H%RMINORZBUG
-XWeb:BoldAndItalicTagsCheckc"Replace this <i> tag by <em>.(×èë8òûßáÓ/H&RMINORZBUG
+XWeb:BoldAndItalicTagsCheckW"Replace this <i> tag by <em>.(û‘”ï8òûßáÓ/H_RMINORZBUG
+XWeb:BoldAndItalicTagsCheckQ"Replace this <i> tag by <em>.(ÿ¦º8òûßáÓ/H`RMINORZBUG
+XWeb:BoldAndItalicTagsCheckc"Replace this <i> tag by <em>.(×èë8òûßáÓ/HaRMINORZBUG

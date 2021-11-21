@@ -2,3 +2,15 @@
 2021-11-20 14:20:06,301 [Worker-21: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2021-11-20 15:03:06,910 [Worker-22: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2021-11-20 15:17:15,434 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-21 08:34:16,721 [Worker-19: Creating project "maven-demo"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: maven-demo:maven-demo:0.0.1-SNAPSHOT @ D:\Code\internship2021\maven-demo\pom.xml.
+2021-11-21 08:34:16,974 [Worker-19: Creating project "maven-demo"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-demo/src/main/java
+2021-11-21 08:34:16,975 [Worker-19: Creating project "maven-demo"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /maven-demo/src/main/resources
+2021-11-21 08:34:16,976 [Worker-19: Creating project "maven-demo"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-demo/src/test/java
+2021-11-21 08:34:16,976 [Worker-19: Creating project "maven-demo"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /maven-demo/src/test/resources
+2021-11-21 08:34:17,463 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-21 08:34:17,471 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-21 08:34:17,472 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - 阿里云Maven中央仓库为阿里云云效提供的公共代理仓库，云效也提供了免费、可靠的Maven私有仓库Packages，欢迎您体验使用。https://www.aliyun.com/product/yunxiao/packages?channel=pd_maven_download
+2021-11-21 08:34:17,474 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-21 08:34:17,475 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-21 08:34:17,475 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - 阿里云Maven中央仓库为阿里云云效提供的公共代理仓库，云效也提供了免费、可靠的Maven私有仓库Packages，欢迎您体验使用。https://www.aliyun.com/product/yunxiao/packages?channel=pd_maven_download
+2021-11-21 09:06:12,739 [Worker-36: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
