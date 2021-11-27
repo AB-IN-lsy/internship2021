@@ -5,15 +5,17 @@
 <head>
 <title>写留言-天一时代留言本</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link href="images/web.css" rel="stylesheet" type="text/css">
+<link href="../images/web.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <form name="myform" method="post" action="sendMess" onSubmit="this.regsubmit.disabled=true;">
  <div id="wrapper">
            
                 <div id="header">
-                    
-                        <div id="logo"><img src="images/logo.gif"/></div>
+                    	<%-- 注意这里的路径变成了views/.....
+                    	所以要访问images就要../
+                    	--%>
+                        <div id="logo"><img src="../images/logo.gif"/></div>
                         <div id="blog-header">
                             <h1 class="blog-title"><a href="index.html">天一时代留言本 1.0</a></h1>
                             <div class="blog-desc">欢迎光临天一时代留言本</div>
