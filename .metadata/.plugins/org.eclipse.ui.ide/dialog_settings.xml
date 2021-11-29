@@ -17,6 +17,8 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\Code\internship2021\nfuweb07"/>
+			<item value="D:\Code\internship2021\nfuweb06"/>
 			<item value="D:\Code\internship2021\nfuweb05"/>
 			<item value="D:\Code\internship2021\nfuweb04"/>
 			<item value="D:\Code\internship2021\nfuweb02"/>
