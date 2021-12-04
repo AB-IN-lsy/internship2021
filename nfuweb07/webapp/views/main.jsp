@@ -20,7 +20,7 @@
                         <div id="menu">
                             <ul>
                                 <li><a href="index.html">留言首页</a></li>
-                                <li><a href="new.html">签写留言</a></li>
+                                <li><a href="/nfuweb07/views/new.jsp">签写留言</a></li>
 								<li><a href="login.html">登陆后台</a></li>
                             </ul>
                         </div>
@@ -42,7 +42,8 @@
 								</div>
 								<div class="textbox-content">${msg.content }</div>
 								
-								<div class="textbox-bottom">邮箱: ${msg.email} | <a href="#" >删除</a>| <a href="#" >修改</a></div>
+								<div class="textbox-bottom">邮箱: ${msg.email} | <a href="/nfuweb07/delete?mid=${msg.mid}" >删除</a>| 
+								<a href="/nfuweb07/findone?mid=${msg.mid}" >修改</a></div>
 			  </div>
 			  </c:forEach>
 			  <%/*   

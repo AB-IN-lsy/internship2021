@@ -5,15 +5,15 @@
 <head>
 <title>写留言-天一时代留言本</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link href="images/web.css" rel="stylesheet" type="text/css">
+<link href="/nfuweb07/images/web.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-<form name="myform" method="post" action="sendMess" onSubmit="this.regsubmit.disabled=true;">
+<form name="myform" method="post" action="/nfuweb07/update">
  <div id="wrapper">
            
                 <div id="header">
                     
-                        <div id="logo"><img src="images/logo.gif"/></div>
+                        <div id="logo"><img src="/nfuweb07/images/logo.gif"/></div>
                         <div id="blog-header">
                             <h1 class="blog-title"><a href="index.html">天一时代留言本 1.0</a></h1>
                             <div class="blog-desc">欢迎光临天一时代留言本</div>
@@ -35,10 +35,11 @@
 									<h4>签名留言</h4>
 								</div>
 								<div class="textbox-content">
+								<input name="mid" type = "hidden" value = "${msg.mid}">
 <li>昵称:
-<input name="yhm" type="text" id="yhm"></li>
+<input name="author" type="text" id="yhm"></li>
 <li>标题:
-<input name="title" type="text" id="email"></li>
+<input name="title" type="text" id="title"></li>
 
 <li>邮箱:
 <input name="email" type="text" id="email"></li>
